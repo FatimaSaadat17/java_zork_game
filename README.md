@@ -25,9 +25,12 @@ git clone https://github.com/FatimaSaadat17/java_zork_game.git
 cd game
 ./run.sh
 ```
-🎮 How to Play
-The game operates using a text parser. Type your desired action at the Command: prompt and press Enter.   
-Essential CommandsMovement: Type move and then specify a direction (north, east, south, west) to traverse the map.   
+# 🎮 How to Play
+The game operates using a text parser. 
+Type your desired action at the Command: prompt and press Enter.   
+
+# Essential Commands
+Movement: Type move and then specify a direction (north, east, south, west) to traverse the map.   
 Observation: Type look to examine your current room, or look <item> to inspect specific features and puzzles.
 Map: Type map to display your current location on the grid.
 Inventory & InteractionManage Items: Type take <item> to pick something up, remove to discard an item, or inventory to see what you are holding.
