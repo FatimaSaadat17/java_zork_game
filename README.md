@@ -21,7 +21,7 @@ You awaken stranded on a mysterious island in the middle of the sea, with your l
 To install and run the game, use the following commands in your terminal:
 
 ```bash
-git clone <your-repository-url-here>
+git clone https://github.com/FatimaSaadat17/java_zork_game.git
 cd game
 ./run.sh
 ```
