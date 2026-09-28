@@ -30,12 +30,12 @@ The game operates using a text parser.
 Type your desired action at the Command: prompt and press Enter.   
 
 # Essential Commands
-Movement: Type move and then specify a direction (north, east, south, west) to traverse the map.   
-Observation: Type look to examine your current room, or look <item> to inspect specific features and puzzles.
-Map: Type map to display your current location on the grid.
-Inventory & InteractionManage Items: Type take <item> to pick something up, remove to discard an item, or inventory to see what you are holding.
-Interact: Type open <container> to reveal hidden items, use <item> to interact with the environment, or talk <NPC> to speak with a character.
-Status: Type sanity to check your mental state, or score to display your current progress.
-Help: Type help at any time to view a full list of available commands.
+- Movement: Type move and then specify a direction (north, east, south, west) to traverse the map.   
+- Observation: Type look to examine your current room, or look <item> to inspect specific features and puzzles.
+- Map: Type map to display your current location on the grid.
+- Inventory & InteractionManage Items: Type take <item> to pick something up, remove to discard an item, or inventory to see what you are holding.
+- Interact: Type open <container> to reveal hidden items, use <item> to interact with the environment, or talk <NPC> to speak with a character.
+- Status: Type sanity to check your mental state, or score to display your current progress.
+- Help: Type help at any time to view a full list of available commands.
 
 
